@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kingsmark16)](https://github.com/stats-organization/github-stats-extended)
-https://github-stats-extended.vercel.app/api/top-langs?username=kingsmark16&layout=donut-vertical&langs_count=10&theme=gruvbox_light
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kingsmark16&layout=donut-vertical&langs_count=10&theme=gruvbox_light)](https://github-stats-extended.vercel.app/api/top-langs?username=kingsmark16&layout=donut-vertical&langs_count=10&theme=gruvbox_light)
