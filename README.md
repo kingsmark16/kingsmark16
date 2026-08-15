@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kingsmark16)](https://github.com/stats-organization/github-stats-extended)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kingsmark16&layout=donut-vertical&langs_count=10&theme=gruvbox_light)](https://github-stats-extended.vercel.app/api/top-langs?username=kingsmark16&layout=donut-vertical&langs_count=10&theme=gruvbox_light)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kingsmark16&layout=donut-vertical&langs_count=15&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=kingsmark16&layout=donut-vertical&langs_count=15&theme=chartreuse-dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kingsmark16&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=kingsmark16&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
