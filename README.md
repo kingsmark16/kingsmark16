@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Mark Angel Concina — Full-stack developer and creative builder" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Mark Angel Concina — Full-stack developer" />
 
   <br />
 
@@ -14,12 +14,14 @@
   <img src="https://komarev.com/ghpvc/?username=kingsmark16&amp;label=PROFILE+VIEWS&amp;color=7C5CFC&amp;style=for-the-badge" alt="Profile views" />
 </div>
 
-## Hello, world — I'm Mark
+## Hello, World — I'm Mark
 
-I build web products that balance **engineering depth** with **playful, human-centered design**. My work moves from database schema to polished interface, with a soft spot for learning platforms, expressive experiences, real-time features, and cloud deployment.
+I'm a Full-Stack Developer focused on building reliable, practical, and easy-to-use web applications. Enjoys solving problems,
+learning better ways to develop software, and improving through hands-on work. Looking for an opportunity to grow as
+a developer, contribute to a team, and build software that people can actually use.
 
 ```ts
-const mark = {
+const kingsmark16 = {
   role: "Full-stack developer",
   approach: ["think clearly", "design intentionally", "ship reliably"],
   currentMission: "Turn ambitious ideas into memorable products",
@@ -78,9 +80,9 @@ const mark = {
 | :-- | :-- |
 | **Frontend** | TypeScript, React, Next.js, Tailwind CSS, Vite, GSAP |
 | **Backend** | Node.js, Express, NestJS, REST APIs, Socket.IO |
-| **Data** | PostgreSQL, MongoDB, Redis, Supabase, Prisma |
+| **Data** | PostgreSQL, MySQL, MongoDB, Redis, Supabase, Prisma |
 | **Delivery** | Docker, Nginx, Azure, AWS, Vercel, GitHub Actions |
-| **Craft** | Figma, responsive design, accessibility, testing |
+| **Craft** | Stitch AI, Figma, responsive design, accessibility, testing |
 
 ## GitHub signal
 
