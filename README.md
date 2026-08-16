@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=kingsmark16&amp;label=PROFILE+VIEWS&amp;color=7C5CFC&amp;style=for-the-badge" alt="Profile views" />
 </div>
 
-## Hello, I'm Mark Angel
+## Hello, World - I'm Mark Angel
 
 I'm a Full-Stack Developer focused on building reliable, practical, and easy-to-use web applications. Enjoys solving problems,
 learning better ways to develop software, and improving through hands-on work. Looking for an opportunity to grow as
@@ -88,7 +88,7 @@ const kingsmark16 = {
 
 <div align="center">
   <img height="175" src="https://github-readme-stats.shion.dev/api?username=kingsmark16&amp;rank_icon=percentile&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=70E1F5&amp;text_color=C9D1D9&amp;icon_color=FF4ECD" alt="Mark's GitHub statistics" />
-  <img height="175" src="[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kingsmark16&layout=compact&langs_count=15&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=kingsmark16&layout=compact&langs_count=15&theme=transparent)" alt="Mark's most used languages" />
+  <img height="175" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kingsmark16&amp;layout=compact&amp;langs_count=10&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=70E1F5&amp;text_color=C9D1D9" alt="Mark's most used languages" />
 </div>
 
 <div align="center">
