@@ -48,15 +48,15 @@ const kingsmark16 = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✨ Portfolio</h3>
+      <h3>Portfolio</h3>
       <p>A motion-rich personal showcase for selected projects, services, experience, education, and the thinking behind the work.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>GSAP</code> <code>Vercel</code></p>
-      <p><a href="https://github.com/kingsmark16/portfolio"><strong>Explore the source ↗</strong></a></p>
+      <p><a href="https://www.mcanghel.fun"><strong>Live experience ↗</strong></a> · <a href="https://github.com/kingsmark16/portfolio">Source</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>Heuristic Evaluation Report</h3>
       <p>A web-based reporting site for presenting heuristic evaluation findings in a clear, structured, and accessible format.</p>
-      <p><a href="https://github.com/kingsmark16/heuristic-evaluation-web-reporting-site"><strong>Explore the source</strong></a></p>
+      <p><a href="https://hewrs.vercel.app"><strong>Live experience ↗</strong></a> · <a href="https://github.com/kingsmark16/heuristic-evaluation-web-reporting-site">Source</a></p>
     </td>
   </tr>
   <tr>
