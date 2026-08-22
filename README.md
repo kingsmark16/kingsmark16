@@ -40,35 +40,40 @@ const kingsmark16 = {
       <p><a href="https://parsuwise.onrender.com"><strong>Live experience ↗</strong></a> · <a href="https://github.com/kingsmark16/PARSUWise">Source</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>💌 Confession</h3>
-      <p>An interactive pop-art love story with a paginated letter, music, memories, an animated garden, and anonymous responses stored with Supabase.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Supabase</code> <code>Azure</code></p>
-      <p><a href="https://confession4u.mcanghel.fun"><strong>Live experience ↗</strong></a> · <a href="https://github.com/kingsmark16/Confession">Source</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>📼 CollegeRage</h3>
       <p>A “vault of chaos” for preserving college memories, packaged as a production-style multi-container app with an Nginx gateway and persistent data.</p>
       <p><code>React</code> <code>Express</code> <code>Docker</code> <code>Nginx</code> <code>Neon</code></p>
       <p><a href="https://collegerage-fzahg5ekarathpf3.southeastasia-01.azurewebsites.net"><strong>Live experience ↗</strong></a> · <a href="https://github.com/kingsmark16/CollegeRage">Source</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>✨ Portfolio</h3>
       <p>A motion-rich personal showcase for selected projects, services, experience, education, and the thinking behind the work.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>GSAP</code> <code>Vercel</code></p>
       <p><a href="https://github.com/kingsmark16/portfolio"><strong>Explore the source ↗</strong></a></p>
     </td>
+    <td width="50%" valign="top">
+      <h3>Heuristic Evaluation Report</h3>
+      <p>A web-based reporting site for presenting heuristic evaluation findings in a clear, structured, and accessible format.</p>
+      <p><a href="https://github.com/kingsmark16/heuristic-evaluation-web-reporting-site"><strong>Explore the source</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Redis Caching Rate Limiter</h3>
+      <p>A NestJS rate-limiting implementation powered by Redis caching for controlling request traffic and improving API resilience.</p>
+      <p><code>NestJS</code> <code>Redis</code> <code>TypeScript</code></p>
+      <p><a href="https://github.com/kingsmark16/Redis-caching-rate-limiter-with-nestjs"><strong>Explore the source</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💌 Confession</h3>
+      <p>An interactive pop-art love story with a paginated letter, music, memories, an animated garden, and anonymous responses stored with Supabase.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Supabase</code> <code>Azure</code></p>
+      <p><a href="https://confession4u.mcanghel.fun"><strong>Live experience ↗</strong></a> · <a href="https://github.com/kingsmark16/Confession">Source</a></p>
+    </td>
   </tr>
 </table>
-
-<details>
-  <summary><strong>More experiments from the lab</strong></summary>
-  <br />
-  <a href="https://github.com/kingsmark16/Letterly">Letterly</a> ·
-  <a href="https://github.com/kingsmark16/heuristic-evaluation-web-reporting-site">Heuristic Evaluation Report</a> ·
-  <a href="https://github.com/kingsmark16/React-Quiz-App">React Quiz App</a>
-</details>
 
 ## The toolbox
 
