@@ -7,6 +7,11 @@ I'm a Full-Stack Developer focused on building reliable, practical, and easy-to-
 learning better ways to develop software, and improving through hands-on work.
 
 <div align="center">
+  <h2>Tech Stack</h2>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,postgres,mongodb,redis,supabase,prisma,tailwind,vite,docker,azure,aws,vercel,git,github,figma&amp;perline=11&amp;theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, NestJS, PostgreSQL, MongoDB, Redis, Supabase, Prisma, Tailwind CSS, Vite, Docker, Azure, AWS, Vercel, Git, GitHub, and Figma" />
+</div>
+
+<div align="center">
   <img height="175" src="https://github-readme-stats.shion.dev/api?username=kingsmark16&amp;rank_icon=percentile&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=70E1F5&amp;text_color=C9D1D9&amp;icon_color=FF4ECD" alt="Mark's GitHub statistics" />
   <img height="175" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kingsmark16&amp;layout=compact&amp;langs_count=10&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=70E1F5&amp;text_color=C9D1D9" alt="Mark's most used languages" />
 </div>
