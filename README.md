@@ -6,7 +6,6 @@
 I'm a Full-Stack Developer focused on building reliable, practical, and easy-to-use web applications. Enjoys solving problems,
 learning better ways to develop software, and improving through hands-on work.
 
-
 ## Selected work
 
 <table>
@@ -50,7 +49,9 @@ learning better ways to develop software, and improving through hands-on work.
       <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Supabase</code> <code>Azure</code></p>
       <p><a href="https://confession4u.mcanghel.fun"><strong>Live experience ↗</strong></a> · <a href="https://github.com/kingsmark16/Confession">Source</a></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>🎓 PARSUWise</h3>
       <p>A full-stack learning platform with role-based experiences, course authoring, quizzes, real-time forums, progress analytics, and verifiable certificates.</p>
       <p><code>React 19</code> <code>Express</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Socket.IO</code></p>
@@ -89,7 +90,7 @@ I enjoy projects where thoughtful engineering and personality can coexist. If yo
   <a href="https://instagram.com/mc.anghel"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
   <a href="https://facebook.com/mcanghel.concina"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
   <a href="https://tiktok.com/@kingsmark16"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" /></a>
-  <img src="https://komarev.com/ghpvc/?username=kingsmark16&amp;label=PROFILE+VIEWS&amp;color=7C5CFC&amp;style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kingsmark16&amp;label=PROFILE+VIEWS&amp;color=7C5CFC&amp;style=flat-square" alt="Profile views" />
 </div>
 
 <div align="center">
