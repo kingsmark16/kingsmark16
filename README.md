@@ -40,45 +40,6 @@
   <img src="./assets/recruiter-hud.svg" width="100%" alt="Mark Angel Concina — Recruiter Telemetry & Executive Snapshot" />
 </div>
 
-<br />
-
-<table>
-  <tr>
-    <td width="52%" valign="top">
-      <h3>⚡ What I Bring to Engineering Teams</h3>
-      <p>
-        I'm a <strong>Full-Stack &amp; Backend Software Engineer</strong> based in the Philippines who builds <strong>production-grade, resilient web applications</strong> from database schema and distributed API design to polished, accessible user interfaces.
-      </p>
-      <ul>
-        <li><strong>Enterprise &amp; Distributed Backend:</strong> Hands-on experience architecting RESTful &amp; microservice backends using <strong>TypeScript (NestJS, Node.js, Express)</strong> and <strong>Java &amp; Spring Boot</strong>, implementing <em>Transactional Outbox patterns</em>, <em>Redis cache-aside &amp; sub-millisecond RBAC lookups</em>, and <em>distributed rate limiting across Docker + NGINX replicas</em>.</li>
-        <li><strong>Modern Frontend &amp; Cross-Platform:</strong> Crafting responsive, type-safe interfaces with <strong>React 19, Next.js (App Router), Tailwind CSS, TanStack Query, GSAP</strong>, and mobile apps with <strong>React Native &amp; Expo</strong>.</li>
-        <li><strong>Applied AI &amp; FinTech Integrations:</strong> Shipping grounded <strong>Retrieval-Augmented Generation (RAG)</strong> assistants (LangChain + Vector DB + Gemini) and secure <strong>Stripe Embedded Checkout + Webhook fulfillment</strong> pipelines.</li>
-      </ul>
-    </td>
-    <td width="48%" valign="top">
-      <h3>🏛️ Experience, Education &amp; Honors</h3>
-      <table>
-        <tr>
-          <td><strong>🏢 Full-Stack Developer Intern</strong><br /><sub><strong>San Jose LGU</strong> · Feb – May 2026</sub></td>
-          <td>Engineered a municipal web platform, administrative dashboard, real-time citizen chat system, and incident reporting portal.</td>
-        </tr>
-        <tr>
-          <td><strong>🎓 BS in Information Technology</strong><br /><sub><strong>Partido State University</strong> · Graduate</sub></td>
-          <td>Lead developer of <strong>PARSUWise</strong> (centralized role-based LMS with real-time Socket.IO forums, analytics &amp; verifiable certificates).</td>
-        </tr>
-        <tr>
-          <td><strong>🏆 Academic &amp; Tech Distinctions</strong><br /><sub><strong>Honors &amp; Competition</strong></sub></td>
-          <td><strong>2x Dean's Lister</strong> &amp; <strong>1st Place Winner at Gamefest 2025</strong>. Strong foundation in OOP, Data Structures &amp; Algorithms (Java/TS).</td>
-        </tr>
-        <tr>
-          <td><strong>📍 Work Preferences</strong><br /><sub><strong>Immediate Availability</strong></sub></td>
-          <td>Open to <strong>Full-Stack, Backend, or Software Engineer</strong> roles (Remote, Hybrid, or On-Site · Philippines / Global).</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
   <img src="./assets/section-divider.svg" width="100%" alt="Section divider" />
 </div>
