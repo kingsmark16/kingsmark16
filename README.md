@@ -1,10 +1,5 @@
 <div align="center">
 
-  <!-- ======================= HERO BANNER ======================= -->
-  <img src="./assets/BG_PHOTO.png" width="100%" alt="Mark Angel Concina — Full-Stack & Backend Software Engineer" />
-
-  <br />
-
   <!-- ======================= ANIMATED TYPING HEADLINE ======================= -->
   <a href="https://www.mcanghel.fun">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;weight=700&amp;size=21&amp;duration=3200&amp;pause=900&amp;color=70E1F5&amp;center=true&amp;vCenter=true&amp;width=860&amp;lines=Full-Stack+%26+Backend+Software+Engineer+%E2%80%A2+BSIT+Graduate;TypeScript+%E2%80%A2+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+NestJS+%E2%80%A2+React+19+%E2%80%A2+Next.js;Architecting+Multi-Tenant+SaaS%2C+Microservices+%26+Distributed+APIs;Building+Grounded+AI+(RAG)+%26+High-Concurrency+Cloud+Systems;2x+Dean's+Lister+%E2%80%A2+1st+Place+Gamefest+2025+%E2%80%A2+Open+to+Opportunities" alt="Animated Headline: Full-Stack & Backend Software Engineer" />
