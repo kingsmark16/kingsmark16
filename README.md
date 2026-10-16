@@ -2,7 +2,7 @@
 
   <!-- ======================= ANIMATED TYPING HEADLINE ======================= -->
   <a href="https://www.mcanghel.fun">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;weight=700&amp;size=21&amp;duration=3200&amp;pause=900&amp;color=70E1F5&amp;center=true&amp;vCenter=true&amp;width=860&amp;lines=Full-Stack+%26+Backend+Software+Engineer+%E2%80%A2+BSIT+Graduate;TypeScript+%E2%80%A2+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+NestJS+%E2%80%A2+React+19+%E2%80%A2+Next.js;Architecting+Multi-Tenant+SaaS%2C+Microservices+%26+Distributed+APIs;Building+Grounded+AI+(RAG)+%26+High-Concurrency+Cloud+Systems;2x+Dean's+Lister+%E2%80%A2+1st+Place+Gamefest+2025+%E2%80%A2+Open+to+Opportunities" alt="Animated Headline: Full-Stack & Backend Software Engineer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;weight=700&amp;size=21&amp;duration=3200&amp;pause=900&amp;color=70E1F5&amp;center=true&amp;vCenter=true&amp;width=860&amp;lines=Full-Stack+%26+Backend+Software+Engineer+%E2%80%A2+BSIT+Graduate;TypeScript+%E2%80%A2+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+NestJS+%E2%80%A2+React+19+%E2%80%A2+Next.js;Architecting+Multi-Tenant+SaaS+%26+Distributed+APIs;Building+Grounded+AI+(RAG)+%26+High-Concurrency+Cloud+Systems;2x+Dean's+Lister+%E2%80%A2+1st+Place+Gamefest+2025+%E2%80%A2+Open+to+Opportunities" alt="Animated Headline: Full-Stack & Backend Software Engineer" />
   </a>
 
   <br />
@@ -63,7 +63,7 @@
 | Domain | Core Technologies & Tools |
 | :--- | :--- |
 | **💻 Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **⚙️ Backend & Enterprise** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-7C5CFC?style=flat-square) |
+| **⚙️ Backend & Enterprise** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | **🎨 Frontend & Mobile** | ![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) |
 | **🗄️ Data, Caching & ORM** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![AstraDB](https://img.shields.io/badge/AstraDB_Vector-7C5CFC?style=flat-square) |
 | **☁️ Cloud, DevOps & Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white) |
@@ -138,12 +138,12 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/kingsmark16/NestFlux">NestFlux — Microservice File &amp; Image Engine</a></h3>
+      <h3>⚡ <a href="https://github.com/kingsmark16/NestFlux">NestFlux — Event-Driven File &amp; Image Engine</a></h3>
       <p>
-        A microservice-based file ingestion and asynchronous image processing platform built in a pnpm monorepo. Features an <strong>API Gateway</strong> and a reliable <strong>Transactional Outbox Dispatcher</strong> for scheduled event-driven asset processing.
+        A modular file ingestion and asynchronous image processing platform built in a pnpm monorepo. Features an <strong>API Gateway</strong> and a reliable <strong>Transactional Outbox Dispatcher</strong> for scheduled event-driven asset processing.
       </p>
       <p>
-        <code>NestJS</code> <code>Microservices</code> <code>Transactional Outbox</code> <code>TypeScript</code> <code>Docker Compose</code> <code>pnpm</code>
+        <code>NestJS</code> <code>Transactional Outbox</code> <code>TypeScript</code> <code>Docker Compose</code> <code>pnpm</code>
       </p>
       <p>
         <a href="https://github.com/kingsmark16/NestFlux"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Source Code" /></a>
@@ -248,12 +248,12 @@
 </details>
 
 <details open>
-<summary><strong>⚙️ 2. Backend Architecture, Microservices &amp; Distributed Systems (4 Repositories)</strong> — <em>Click to toggle</em></summary>
+<summary><strong>⚙️ 2. Backend Architecture &amp; Distributed Systems (4 Repositories)</strong> — <em>Click to toggle</em></summary>
 <br />
 
 | # | Repository | Primary Stack | Description & Engineering Highlights | Links |
 | :-: | :--- | :--- | :--- | :---: |
-| **09** | **[`NestFlux`](https://github.com/kingsmark16/NestFlux)** | `TypeScript` `NestJS` `Docker` `pnpm` | Microservice-based file ingestion and image processing platform implementing an API Gateway and scheduled Transactional Outbox event dispatcher. | [Repo](https://github.com/kingsmark16/NestFlux) |
+| **09** | **[`NestFlux`](https://github.com/kingsmark16/NestFlux)** | `TypeScript` `NestJS` `Docker` `pnpm` | Modular file ingestion and image processing platform implementing an API Gateway and scheduled Transactional Outbox event dispatcher. | [Repo](https://github.com/kingsmark16/NestFlux) |
 | **10** | **[`Redis-caching-rate-limiter-with-nestjs-docker-and-nginx`](https://github.com/kingsmark16/Redis-caching-rate-limiter-with-nestjs-docker-and-nginx)** | `TypeScript` `NestJS` `Redis` `NGINX` | Production-style NestJS CRUD API with PostgreSQL, Prisma, Redis cache-aside TTL, distributed rate limiting, Swagger, Docker Compose & Jest E2E tests. | [Repo](https://github.com/kingsmark16/Redis-caching-rate-limiter-with-nestjs-docker-and-nginx) |
 | **11** | **[`nest.js`](https://github.com/kingsmark16/nest.js)** | `TypeScript` `NestJS` `Node.js` | Server-side architecture sandbox and modular backend patterns using the progressive NestJS framework. | [Repo](https://github.com/kingsmark16/nest.js) |
 | **12** | **[`go-learning`](https://github.com/kingsmark16/go-learning)** | `Go (Golang)` | Backend systems programming, concurrency patterns, and language fundamentals exploration in Go. | [Repo](https://github.com/kingsmark16/go-learning) |

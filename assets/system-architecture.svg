@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="arch-title arch-desc">
   <title id="arch-title">System Architecture &amp; Engineering Workflow</title>
-  <desc id="arch-desc">Animated architecture blueprint showing Client Layer, Gateway &amp; Security, Microservices &amp; Backend (NestJS, Java, Spring Boot), and Data, Caching &amp; AI RAG Layer.</desc>
+  <desc id="arch-desc">Animated architecture blueprint showing Client Layer, Gateway &amp; Security, Backend Services (NestJS, Java, Spring Boot), and Data, Caching &amp; AI RAG Layer.</desc>
 
   <defs>
     <linearGradient id="archBg" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -79,7 +79,7 @@
     <text x="16" y="160" fill="#C084FC" class="mono" font-size="10.5">Sub-ms Auth • DDoS Resilient</text>
   </g>
 
-  <!-- TIER 3: BACKEND & MICROSERVICES -->
+  <!-- TIER 3: BACKEND SERVICES -->
   <g transform="translate(606, 66)">
     <rect width="260" height="176" rx="12" fill="#0F172A" stroke="#EC4899" stroke-width="1.5" stroke-opacity="0.7" />
     <rect x="14" y="14" width="84" height="20" rx="5" fill="#500724" />
