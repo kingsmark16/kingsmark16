@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="presentation">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="0" />
+      <stop offset="20%" stop-color="#70E1F5" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#7C5CFC" stop-opacity="1" />
+      <stop offset="80%" stop-color="#FF4ECD" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <line x1="40" y1="12" x2="1160" y2="12" stroke="url(#divGrad)" stroke-width="1.5" />
+  <polygon points="600,4 608,12 600,20 592,12" fill="#70E1F5">
+    <animate attributeName="fill" values="#70E1F5;#7C5CFC;#FF4ECD;#70E1F5" dur="4s" repeatCount="indefinite" />
+  </polygon>
+  <circle cx="480" cy="12" r="2.5" fill="#7C5CFC">
+    <animate attributeName="cx" values="200;1000;200" dur="7s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="720" cy="12" r="2.5" fill="#FF4ECD">
+    <animate attributeName="cx" values="1000;200;1000" dur="7s" repeatCount="indefinite" />
+  </circle>
+</svg>
+

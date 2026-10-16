@@ -1,0 +1,229 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="hud-title hud-desc">
+  <title id="hud-title">Mark Angel Concina — Recruiter Executive Snapshot &amp; Live Engineering Telemetry</title>
+  <desc id="hud-desc">Interactive-style animated recruiter dashboard highlighting education, internship experience, Java, Spring Boot, NestJS, React, Next.js, and key engineering metrics.</desc>
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060A12" />
+      <stop offset="50%" stop-color="#0B1120" />
+      <stop offset="100%" stop-color="#090D16" />
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#70E1F5" />
+      <stop offset="50%" stop-color="#7C5CFC" />
+      <stop offset="100%" stop-color="#FF4ECD" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#111827" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#0B0F19" stop-opacity="0.95" />
+    </linearGradient>
+
+    <linearGradient id="barCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06B6D4" />
+      <stop offset="100%" stop-color="#70E1F5" />
+    </linearGradient>
+
+    <linearGradient id="barViolet" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366F1" />
+      <stop offset="100%" stop-color="#A855F7" />
+    </linearGradient>
+
+    <linearGradient id="barPink" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#EC4899" />
+      <stop offset="100%" stop-color="#FF4ECD" />
+    </linearGradient>
+
+    <linearGradient id="barEmerald" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#34D399" />
+    </linearGradient>
+
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1E293B" stroke-width="0.7" stroke-opacity="0.45" />
+    </pattern>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Consolas', monospace; }
+      .sans { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      @keyframes pulseRing {
+        0% { r: 5px; opacity: 0.9; }
+        100% { r: 14px; opacity: 0; }
+      }
+      @keyframes floatSlow {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-4px); }
+      }
+      @keyframes scanline {
+        0% { transform: translateY(0px); opacity: 0.08; }
+        50% { opacity: 0.16; }
+        100% { transform: translateY(290px); opacity: 0.08; }
+      }
+      .cursor { animation: blink 1.1s infinite; }
+      .pulse-ring { animation: pulseRing 2s cubic-bezier(0, 0, 0.2, 1) infinite; }
+      .scan { animation: scanline 6s linear infinite; }
+    </style>
+  </defs>
+
+  <!-- Outer Frame -->
+  <rect width="1200" height="390" rx="16" fill="url(#bgGrad)" stroke="#1E293B" stroke-width="2" />
+  <rect width="1200" height="390" rx="16" fill="url(#grid)" />
+
+  <!-- Top Neon Accent Border -->
+  <rect x="2" y="2" width="1196" height="3" rx="2" fill="url(#accentGrad)" />
+
+  <!-- Ambient Glow Orbs -->
+  <circle cx="150" cy="70" r="110" fill="#70E1F5" fill-opacity="0.05" />
+  <circle cx="1050" cy="310" r="130" fill="#7C5CFC" fill-opacity="0.06" />
+
+  <!-- Top Telemetry Header Bar -->
+  <rect x="24" y="18" width="1152" height="42" rx="10" fill="#0F172A" fill-opacity="0.9" stroke="#1E293B" stroke-width="1" />
+  
+  <!-- Live Pulsing Indicator -->
+  <circle cx="48" cy="39" r="5" fill="#10B981" class="pulse-ring" />
+  <circle cx="48" cy="39" r="5" fill="#10B981" />
+  <text x="64" y="44" fill="#10B981" class="mono" font-size="12" font-weight="700" letter-spacing="1.2">OPEN TO WORK // FULL-STACK &amp; BACKEND ENGINEER</text>
+
+  <line x1="435" y1="28" x2="435" y2="50" stroke="#334155" stroke-width="1" />
+  <text x="452" y="44" fill="#94A3B8" class="sans" font-size="12" font-weight="600">🎓 BSIT Graduate (Partido State University)</text>
+
+  <line x1="735" y1="28" x2="735" y2="50" stroke="#334155" stroke-width="1" />
+  <text x="752" y="44" fill="#94A3B8" class="sans" font-size="12" font-weight="600">🏆 2x Dean's Lister • 1st Place Gamefest 2025</text>
+
+  <rect x="1044" y="26" width="120" height="26" rx="6" fill="#1E1B4B" stroke="#6366F1" stroke-width="1" />
+  <text x="1104" y="43" text-anchor="middle" fill="#A5B4FC" class="mono" font-size="11" font-weight="700">PH / REMOTE</text>
+
+  <!-- ================= LEFT PANEL: RECRUITER TERMINAL ================= -->
+  <g transform="translate(24, 74)">
+    <rect width="580" height="294" rx="12" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1.5" />
+    
+    <!-- Terminal Header -->
+    <rect width="580" height="34" rx="12" fill="#0F172A" />
+    <rect y="22" width="580" height="12" fill="#0F172A" />
+    <line x1="0" y1="34" x2="580" y2="34" stroke="#1E293B" stroke-width="1" />
+    
+    <!-- Window Dots -->
+    <circle cx="20" cy="17" r="5.5" fill="#EF4444" />
+    <circle cx="38" cy="17" r="5.5" fill="#F59E0B" />
+    <circle cx="56" cy="17" r="5.5" fill="#10B981" />
+    <text x="290" y="21" text-anchor="middle" fill="#64748B" class="mono" font-size="11.5" font-weight="600">mark-concina@recruiter-briefing: ~/profile.ts</text>
+    <text x="562" y="21" text-anchor="end" fill="#38BDF8" class="mono" font-size="10">TS / JAVA</text>
+
+    <!-- Subtle Animated Scanline -->
+    <rect x="2" y="35" width="576" height="2" fill="#70E1F5" class="scan" />
+
+    <!-- Code Content -->
+    <g class="mono" font-size="12.2" transform="translate(18, 60)">
+      <text x="0" y="0" fill="#475569">01</text>
+      <text x="28" y="0"><tspan fill="#C084FC">const</tspan> <tspan fill="#38BDF8">candidateProfile</tspan> <tspan fill="#E2E8F0">=</tspan> <tspan fill="#FBBF24">{</tspan></text>
+
+      <text x="0" y="24" fill="#475569">02</text>
+      <text x="44" y="24"><tspan fill="#94A3B8">name:</tspan> <tspan fill="#34D399">"Mark Angel Concina"</tspan><tspan fill="#E2E8F0">,</tspan></text>
+
+      <text x="0" y="48" fill="#475569">03</text>
+      <text x="44" y="48"><tspan fill="#94A3B8">role:</tspan> <tspan fill="#34D399">"Full-Stack &amp; Backend Software Engineer"</tspan><tspan fill="#E2E8F0">,</tspan></text>
+
+      <text x="0" y="72" fill="#475569">04</text>
+      <text x="44" y="72"><tspan fill="#94A3B8">languages:</tspan> <tspan fill="#E2E8F0">[</tspan><tspan fill="#F472B6">"TypeScript"</tspan><tspan fill="#E2E8F0">, </tspan><tspan fill="#FB923C">"Java"</tspan><tspan fill="#E2E8F0">, </tspan><tspan fill="#FACC15">"JavaScript"</tspan><tspan fill="#E2E8F0">, </tspan><tspan fill="#38BDF8">"Go"</tspan><tspan fill="#E2E8F0">, </tspan><tspan fill="#A78BFA">"SQL"</tspan><tspan fill="#E2E8F0">],</tspan></text>
+
+      <text x="0" y="96" fill="#475569">05</text>
+      <text x="44" y="96"><tspan fill="#94A3B8">backend:</tspan> <tspan fill="#E2E8F0">[</tspan><tspan fill="#4ADE80">"Spring Boot"</tspan><tspan fill="#E2E8F0">, </tspan><tspan fill="#F43F5E">"NestJS"</tspan><tspan fill="#E2E8F0">, </tspan><tspan fill="#38BDF8">"Node.js"</tspan><tspan fill="#E2E8F0">, </tspan><tspan fill="#E2E8F0">"Express"</tspan><tspan fill="#E2E8F0">],</tspan></text>
+
+      <text x="0" y="120" fill="#475569">06</text>
+      <text x="44" y="120"><tspan fill="#94A3B8">frontend:</tspan> <tspan fill="#E2E8F0">[</tspan><tspan fill="#38BDF8">"React 19"</tspan><tspan fill="#E2E8F0">, </tspan><tspan fill="#E2E8F0">"Next.js"</tspan><tspan fill="#E2E8F0">, </tspan><tspan fill="#38BDF8">"Tailwind"</tspan><tspan fill="#E2E8F0">, </tspan><tspan fill="#A855F7">"Expo"</tspan><tspan fill="#E2E8F0">],</tspan></text>
+
+      <text x="0" y="144" fill="#475569">07</text>
+      <text x="44" y="144"><tspan fill="#94A3B8">dataAndInfra:</tspan> <tspan fill="#E2E8F0">[</tspan><tspan fill="#60A5FA">"PostgreSQL"</tspan><tspan fill="#E2E8F0">, </tspan><tspan fill="#F87171">"Redis"</tspan><tspan fill="#E2E8F0">, </tspan><tspan fill="#38BDF8">"Docker"</tspan><tspan fill="#E2E8F0">, </tspan><tspan fill="#34D399">"NGINX"</tspan><tspan fill="#E2E8F0">],</tspan></text>
+
+      <text x="0" y="168" fill="#475569">08</text>
+      <text x="44" y="168"><tspan fill="#94A3B8">recentExp:</tspan> <tspan fill="#34D399">"Full-Stack Intern @ San Jose LGU (2026)"</tspan><tspan fill="#E2E8F0">,</tspan></text>
+
+      <text x="0" y="192" fill="#475569">09</text>
+      <text x="28" y="192"><tspan fill="#FBBF24">}</tspan><tspan fill="#E2E8F0">;</tspan></text>
+
+      <text x="0" y="218" fill="#10B981">➜</text>
+      <text x="20" y="218" fill="#70E1F5">~/kingsmark16</text>
+      <text x="122" y="218" fill="#E2E8F0">./deploy_production_impact.sh --ready</text>
+      <rect x="398" y="206" width="8" height="15" fill="#70E1F5" class="cursor" />
+    </g>
+  </g>
+
+  <!-- ================= RIGHT PANEL: BENTO KPI & FOCUS BARS ================= -->
+  <g transform="translate(620, 74)">
+    <!-- 4 Mini Bento Stat Cards -->
+    <!-- Card 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="270" height="78" rx="12" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1.5" />
+      <rect x="0" y="0" width="4" height="78" rx="2" fill="#70E1F5" />
+      <text x="20" y="32" fill="#70E1F5" class="mono" font-size="24" font-weight="800">31</text>
+      <text x="62" y="30" fill="#F8FAFC" class="sans" font-size="13.5" font-weight="700">Public Repositories</text>
+      <text x="20" y="54" fill="#94A3B8" class="sans" font-size="11.5">Full-Stack SaaS, APIs, AI RAG &amp; Java</text>
+    </g>
+
+    <!-- Card 2 -->
+    <g transform="translate(286, 0)">
+      <rect width="270" height="78" rx="12" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1.5" />
+      <rect x="0" y="0" width="4" height="78" rx="2" fill="#A855F7" />
+      <text x="20" y="32" fill="#C084FC" class="mono" font-size="24" font-weight="800">7+</text>
+      <text x="60" y="30" fill="#F8FAFC" class="sans" font-size="13.5" font-weight="700">Live Production Apps</text>
+      <text x="20" y="54" fill="#94A3B8" class="sans" font-size="11.5">Shipped on Azure, Vercel &amp; Render</text>
+    </g>
+
+    <!-- Card 3 -->
+    <g transform="translate(0, 90)">
+      <rect width="270" height="78" rx="12" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1.5" />
+      <rect x="0" y="0" width="4" height="78" rx="2" fill="#FF4ECD" />
+      <text x="20" y="32" fill="#FF4ECD" class="mono" font-size="20" font-weight="800">&lt; 1ms</text>
+      <text x="90" y="30" fill="#F8FAFC" class="sans" font-size="13.5" font-weight="700">Cached RBAC &amp; APIs</text>
+      <text x="20" y="54" fill="#94A3B8" class="sans" font-size="11.5">Redis Look-Aside &amp; NGINX Clusters</text>
+    </g>
+
+    <!-- Card 4 -->
+    <g transform="translate(286, 90)">
+      <rect width="270" height="78" rx="12" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1.5" />
+      <rect x="0" y="0" width="4" height="78" rx="2" fill="#10B981" />
+      <text x="20" y="32" fill="#34D399" class="mono" font-size="19" font-weight="800">TS + JAVA</text>
+      <text x="128" y="30" fill="#F8FAFC" class="sans" font-size="13.5" font-weight="700">Enterprise Ready</text>
+      <text x="20" y="54" fill="#94A3B8" class="sans" font-size="11.5">NestJS, Spring Boot, React &amp; Next.js</text>
+    </g>
+
+    <!-- Engineering Domain Telemetry Card -->
+    <g transform="translate(0, 180)">
+      <rect width="556" height="114" rx="12" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1.5" />
+      <text x="20" y="24" fill="#E2E8F0" class="mono" font-size="11.5" font-weight="700" letter-spacing="1">ENGINEERING CAPABILITY MATRIX</text>
+      <text x="536" y="24" text-anchor="end" fill="#70E1F5" class="mono" font-size="11">PRODUCTION VERIFIED</text>
+
+      <!-- Bar 1 -->
+      <text x="20" y="46" fill="#CBD5E1" class="sans" font-size="11.5" font-weight="600">Backend &amp; Enterprise APIs (NestJS, Java, Spring Boot, Express)</text>
+      <rect x="370" y="36" width="166" height="10" rx="5" fill="#1E293B" />
+      <rect x="370" y="36" width="154" height="10" rx="5" fill="url(#barCyan)">
+        <animate attributeName="width" from="0" to="154" dur="1.4s" fill="freeze" />
+      </rect>
+
+      <!-- Bar 2 -->
+      <text x="20" y="69" fill="#CBD5E1" class="sans" font-size="11.5" font-weight="600">Modern Frontend &amp; Mobile (React 19, Next.js, TypeScript, Expo)</text>
+      <rect x="370" y="59" width="166" height="10" rx="5" fill="#1E293B" />
+      <rect x="370" y="59" width="158" height="10" rx="5" fill="url(#barViolet)">
+        <animate attributeName="width" from="0" to="158" dur="1.6s" fill="freeze" />
+      </rect>
+
+      <!-- Bar 3 -->
+      <text x="20" y="92" fill="#CBD5E1" class="sans" font-size="11.5" font-weight="600">Distributed Systems, Data &amp; Cloud (Postgres, Redis, Docker, NGINX)</text>
+      <rect x="370" y="82" width="166" height="10" rx="5" fill="#1E293B" />
+      <rect x="370" y="82" width="146" height="10" rx="5" fill="url(#barPink)">
+        <animate attributeName="width" from="0" to="146" dur="1.8s" fill="freeze" />
+      </rect>
+    </g>
+  </g>
+</svg>
+

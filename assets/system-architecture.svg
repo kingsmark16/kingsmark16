@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="arch-title arch-desc">
+  <title id="arch-title">System Architecture &amp; Engineering Workflow</title>
+  <desc id="arch-desc">Animated architecture blueprint showing Client Layer, Gateway &amp; Security, Microservices &amp; Backend (NestJS, Java, Spring Boot), and Data, Caching &amp; AI RAG Layer.</desc>
+
+  <defs>
+    <linearGradient id="archBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070B14" />
+      <stop offset="100%" stop-color="#0D1322" />
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#70E1F5" />
+      <stop offset="50%" stop-color="#7C5CFC" />
+      <stop offset="100%" stop-color="#FF4ECD" />
+    </linearGradient>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; }
+      .sans { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      @keyframes dashFlow {
+        to { stroke-dashoffset: -24; }
+      }
+      .flow-line {
+        stroke-dasharray: 6 6;
+        animation: dashFlow 1.2s linear infinite;
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="270" rx="16" fill="url(#archBg)" stroke="#1E293B" stroke-width="2" />
+
+  <!-- Header -->
+  <text x="32" y="36" fill="#70E1F5" class="mono" font-size="12" font-weight="700" letter-spacing="1.5">⚡ PRODUCTION ARCHITECTURE BLUEPRINT // HOW I ENGINEER SYSTEMS</text>
+  <text x="1168" y="36" text-anchor="end" fill="#64748B" class="mono" font-size="11">HIGH-CONCURRENCY • MULTI-TENANT • CLOUD-NATIVE</text>
+  <line x1="24" y1="48" x2="1176" y2="48" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Animated Connector Lines Between Tiers -->
+  <g stroke="url(#lineGrad)" stroke-width="2.5" fill="none">
+    <line x1="286" y1="152" x2="326" y2="152" class="flow-line" />
+    <line x1="576" y1="152" x2="616" y2="152" class="flow-line" />
+    <line x1="866" y1="152" x2="906" y2="152" class="flow-line" />
+  </g>
+
+  <!-- Glowing Data Packets -->
+  <circle r="4" fill="#70E1F5">
+    <animate attributeName="cx" values="286;326" dur="1.2s" repeatCount="indefinite" />
+    <animate attributeName="cy" values="152;152" dur="1.2s" repeatCount="indefinite" />
+  </circle>
+  <circle r="4" fill="#A855F7">
+    <animate attributeName="cx" values="576;616" dur="1.2s" repeatCount="indefinite" />
+    <animate attributeName="cy" values="152;152" dur="1.2s" repeatCount="indefinite" />
+  </circle>
+  <circle r="4" fill="#FF4ECD">
+    <animate attributeName="cx" values="866;906" dur="1.2s" repeatCount="indefinite" />
+    <animate attributeName="cy" values="152;152" dur="1.2s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- TIER 1: CLIENT & EXPERIENCE -->
+  <g transform="translate(26, 66)">
+    <rect width="260" height="176" rx="12" fill="#0F172A" stroke="#06B6D4" stroke-width="1.5" stroke-opacity="0.7" />
+    <rect x="14" y="14" width="76" height="20" rx="5" fill="#083344" />
+    <text x="52" y="28" text-anchor="middle" fill="#67E8F9" class="mono" font-size="10" font-weight="700">01 / CLIENT</text>
+    <text x="16" y="56" fill="#F8FAFC" class="sans" font-size="14.5" font-weight="700">Frontend &amp; Mobile UI</text>
+    <text x="16" y="78" fill="#94A3B8" class="sans" font-size="11.5">• Next.js (App Router &amp; SSR)</text>
+    <text x="16" y="98" fill="#94A3B8" class="sans" font-size="11.5">• React 19 + TanStack Query</text>
+    <text x="16" y="118" fill="#94A3B8" class="sans" font-size="11.5">• React Native &amp; Expo Router</text>
+    <text x="16" y="138" fill="#94A3B8" class="sans" font-size="11.5">• Tailwind CSS, Vite &amp; GSAP</text>
+    <text x="16" y="160" fill="#38BDF8" class="mono" font-size="10.5">WCAG Accessible • Type-Safe</text>
+  </g>
+
+  <!-- TIER 2: EDGE, GATEWAY & AUTH -->
+  <g transform="translate(316, 66)">
+    <rect width="260" height="176" rx="12" fill="#0F172A" stroke="#8B5CF6" stroke-width="1.5" stroke-opacity="0.7" />
+    <rect x="14" y="14" width="84" height="20" rx="5" fill="#2E1065" />
+    <text x="56" y="28" text-anchor="middle" fill="#C4B5FD" class="mono" font-size="10" font-weight="700">02 / GATEWAY</text>
+    <text x="16" y="56" fill="#F8FAFC" class="sans" font-size="14.5" font-weight="700">Edge, Security &amp; Traffic</text>
+    <text x="16" y="78" fill="#94A3B8" class="sans" font-size="11.5">• NGINX Reverse Proxy &amp; LB</text>
+    <text x="16" y="98" fill="#94A3B8" class="sans" font-size="11.5">• Distributed Redis Rate Limiter</text>
+    <text x="16" y="118" fill="#94A3B8" class="sans" font-size="11.5">• Better Auth, Clerk &amp; JWT RBAC</text>
+    <text x="16" y="138" fill="#94A3B8" class="sans" font-size="11.5">• Stripe Webhook Verification</text>
+    <text x="16" y="160" fill="#C084FC" class="mono" font-size="10.5">Sub-ms Auth • DDoS Resilient</text>
+  </g>
+
+  <!-- TIER 3: BACKEND & MICROSERVICES -->
+  <g transform="translate(606, 66)">
+    <rect width="260" height="176" rx="12" fill="#0F172A" stroke="#EC4899" stroke-width="1.5" stroke-opacity="0.7" />
+    <rect x="14" y="14" width="84" height="20" rx="5" fill="#500724" />
+    <text x="56" y="28" text-anchor="middle" fill="#F9A8D4" class="mono" font-size="10" font-weight="700">03 / SERVICES</text>
+    <text x="16" y="56" fill="#F8FAFC" class="sans" font-size="14.5" font-weight="700">Core Backend Engines</text>
+    <text x="16" y="78" fill="#F472B6" class="sans" font-size="11.5" font-weight="700">• Java &amp; Spring Boot APIs</text>
+    <text x="16" y="98" fill="#94A3B8" class="sans" font-size="11.5">• NestJS Multi-Replica Clusters</text>
+    <text x="16" y="118" fill="#94A3B8" class="sans" font-size="11.5">• Transactional Outbox Pattern</text>
+    <text x="16" y="138" fill="#94A3B8" class="sans" font-size="11.5">• Node.js, Express &amp; Socket.IO</text>
+    <text x="16" y="160" fill="#FF4ECD" class="mono" font-size="10.5">SOLID • Clean Architecture</text>
+  </g>
+
+  <!-- TIER 4: DATA, CACHE & AI RAG -->
+  <g transform="translate(896, 66)">
+    <rect width="278" height="176" rx="12" fill="#0F172A" stroke="#10B981" stroke-width="1.5" stroke-opacity="0.7" />
+    <rect x="14" y="14" width="96" height="20" rx="5" fill="#064E3B" />
+    <text x="62" y="28" text-anchor="middle" fill="#6EE7B7" class="mono" font-size="10" font-weight="700">04 / DATA &amp; AI</text>
+    <text x="16" y="56" fill="#F8FAFC" class="sans" font-size="14.5" font-weight="700">Persistence, Cache &amp; AI</text>
+    <text x="16" y="78" fill="#94A3B8" class="sans" font-size="11.5">• PostgreSQL, MySQL &amp; Prisma</text>
+    <text x="16" y="98" fill="#94A3B8" class="sans" font-size="11.5">• Redis Cache-Aside &amp; Pub/Sub</text>
+    <text x="16" y="118" fill="#94A3B8" class="sans" font-size="11.5">• MongoDB &amp; Supabase Storage</text>
+    <text x="16" y="138" fill="#94A3B8" class="sans" font-size="11.5">• LangChain + AstraDB + Gemini</text>
+    <text x="16" y="160" fill="#34D399" class="mono" font-size="10.5">ACID • Grounded Vector RAG</text>
+  </g>
+</svg>
+
