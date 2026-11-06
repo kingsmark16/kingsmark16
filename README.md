@@ -19,7 +19,6 @@
   <!-- ======================= QUICK JUMP NAVIGATION ======================= -->
   <p>
     <sub>
-      <a href="#-recruiter-executive-briefing"><strong>🎯 Recruiter Briefing</strong></a> &nbsp;•&nbsp;
       <a href="#-tech-stack--engineering-arsenal"><strong>🛠️ Tech Stack (TS / Java / Spring Boot / NestJS)</strong></a> &nbsp;•&nbsp;
       <a href="#-complete-public-repository-index-all-31-repos"><strong>📚 All 31 Public Repos</strong></a> &nbsp;•&nbsp;
       <a href="#-github-telemetry--contribution-analytics"><strong>📊 Live Telemetry</strong></a> &nbsp;•&nbsp;
@@ -27,16 +26,6 @@
     </sub>
   </p>
 
-</div>
-
-<div align="center">
-  <img src="./assets/section-divider.svg" width="100%" alt="Section divider" />
-</div>
-
-## 🎯 Recruiter Executive Briefing
-
-<div align="center">
-  <img src="./assets/recruiter-hud.svg" width="100%" alt="Mark Angel Concina — Recruiter Telemetry & Executive Snapshot" />
 </div>
 
 <div align="center">
