@@ -16,20 +16,6 @@
     <img src="https://komarev.com/ghpvc/?username=kingsmark16&amp;label=PROFILE+VIEWS&amp;color=7C5CFC&amp;style=for-the-badge" alt="Profile Views" />
   </p>
 
-  <!-- ======================= QUICK JUMP NAVIGATION ======================= -->
-  <p>
-    <sub>
-      <a href="#-tech-stack--engineering-arsenal"><strong>🛠️ Tech Stack (TS / Java / Spring Boot / NestJS)</strong></a> &nbsp;•&nbsp;
-      <a href="#-complete-public-repository-index-all-31-repos"><strong>📚 All 31 Public Repos</strong></a> &nbsp;•&nbsp;
-      <a href="#-github-telemetry--contribution-analytics"><strong>📊 Live Telemetry</strong></a> &nbsp;•&nbsp;
-      <a href="#-lets-build-something-worth-remembering"><strong>📬 Contact</strong></a>
-    </sub>
-  </p>
-
-</div>
-
-<div align="center">
-  <img src="./assets/section-divider.svg" width="100%" alt="Section divider" />
 </div>
 
 ## 🛠️ Tech Stack & Engineering Arsenal
