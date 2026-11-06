@@ -21,7 +21,6 @@
     <sub>
       <a href="#-recruiter-executive-briefing"><strong>🎯 Recruiter Briefing</strong></a> &nbsp;•&nbsp;
       <a href="#-tech-stack--engineering-arsenal"><strong>🛠️ Tech Stack (TS / Java / Spring Boot / NestJS)</strong></a> &nbsp;•&nbsp;
-      <a href="#-flagship-engineering-showcase"><strong>🚀 Flagship Projects</strong></a> &nbsp;•&nbsp;
       <a href="#-complete-public-repository-index-all-31-repos"><strong>📚 All 31 Public Repos</strong></a> &nbsp;•&nbsp;
       <a href="#-github-telemetry--contribution-analytics"><strong>📊 Live Telemetry</strong></a> &nbsp;•&nbsp;
       <a href="#-lets-build-something-worth-remembering"><strong>📬 Contact</strong></a>
@@ -47,12 +46,6 @@
 ## 🛠️ Tech Stack & Engineering Arsenal
 
 <div align="center">
-  <img src="./assets/system-architecture.svg" width="100%" alt="Production System Architecture Blueprint" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,java,spring,go,php,react,nextjs,nodejs,express,nestjs,postgres,mysql,mongodb,redis,supabase,prisma,tailwind,vite,docker,nginx,azure,aws,vercel,git,github,githubactions,figma&amp;perline=14&amp;theme=dark" alt="TypeScript, JavaScript, Java, Spring Boot, Go, PHP, React, Next.js, Node.js, Express, NestJS, PostgreSQL, MySQL, MongoDB, Redis, Supabase, Prisma, Tailwind CSS, Vite, Docker, NGINX, Azure, AWS, Vercel, Git, GitHub, GitHub Actions, Figma" />
 </div>
 
@@ -70,157 +63,6 @@
 | **🤖 AI, Auth, Payments & QA** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) ![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=flat-square) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
 
 </div>
-
-<div align="center">
-  <img src="./assets/section-divider.svg" width="100%" alt="Section divider" />
-</div>
-
-## 🚀 Flagship Engineering Showcase
-
-> **Recruiter Note:** Below are my **10 flagship engineering projects** demonstrating distributed backend architecture, full-stack product delivery, AI RAG pipelines, and cloud deployment. For the complete list of **all 31 public repositories**, see the [Complete Public Repository Index](#-complete-public-repository-index-all-31-repos) immediately below.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏗️ <a href="https://github.com/kingsmark16/DocuScale">DocuScale — Multi-Tenant B2B SaaS Engine</a></h3>
-      <p>
-        A high-availability, multi-tenant B2B SaaS document engine (<em>"Mini-Notion"</em>) engineered for high-concurrency workloads. Features a <strong>stateless NestJS backend cluster scaled across 3 Docker replicas</strong>, managed by an <strong>NGINX load balancer</strong> with IP rate-limiting, <strong>Better Auth</strong>, and custom <strong>Redis look-aside caching</strong> that drops RBAC authorization checks to <strong>sub-millisecond speeds</strong>.
-      </p>
-      <p>
-        <code>Next.js</code> <code>NestJS (3x Replicas)</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Redis</code> <code>NGINX</code> <code>Docker</code> <code>Better Auth</code>
-      </p>
-      <p>
-        <a href="https://github.com/kingsmark16/DocuScale"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Source Code" /></a>
-        <img src="https://img.shields.io/badge/Architecture-3x_Cluster_+_NGINX-70E1F5?style=flat-square&amp;labelColor=0D1117" alt="Architecture" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/kingsmark16/mc.ai">MC.AI — Grounded RAG Document Assistant</a></h3>
-      <p>
-        Full-stack <strong>Retrieval-Augmented Generation (RAG)</strong> application that transforms uploaded <strong>PDF, DOCX, and TXT</strong> documents into vector-indexed, searchable knowledge bases and delivers context-grounded answers with zero-hallucination guardrails.
-      </p>
-      <p>
-        <code>React</code> <code>TypeScript</code> <code>NestJS</code> <code>LangChain</code> <code>AstraDB Vector</code> <code>Gemini AI</code>
-      </p>
-      <p>
-        <a href="https://mc.ai.mcanghel.fun"><img src="https://img.shields.io/badge/Live_Experience_%E2%86%97-70E1F5?style=flat-square&amp;logo=vercel&amp;logoColor=black" alt="Live Demo" /></a>
-        <a href="https://github.com/kingsmark16/mc.ai"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Source Code" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💳 <a href="https://github.com/kingsmark16/payment-integration">Stripe Payment Integration Monorepo</a></h3>
-      <p>
-        Full-stack payment processing monorepo built with <strong>NestJS, React (Vite + TypeScript), and Stripe Embedded Checkout Elements</strong> (<code>ui_mode: 'elements'</code>). Implements raw-body cryptographic <strong>Stripe webhook signature verification</strong>, idempotent fulfillment, and <strong>TanStack Query v5</strong> state synchronization.
-      </p>
-      <p>
-        <code>NestJS</code> <code>React</code> <code>TypeScript</code> <code>Stripe API &amp; Webhooks</code> <code>TanStack Query</code> <code>pnpm Workspaces</code>
-      </p>
-      <p>
-        <a href="https://github.com/kingsmark16/payment-integration"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Source Code" /></a>
-        <img src="https://img.shields.io/badge/FinTech-Stripe_Webhooks-635BFF?style=flat-square&amp;labelColor=0D1117" alt="Stripe" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💌 <a href="https://github.com/kingsmark16/Letterly">Letterly — Personalized Webpage Platform</a></h3>
-      <p>
-        Full-stack monorepo platform for crafting personalized interactive webpages for celebrations, messages, and meaningful occasions, complete with custom music, workspace cards, authentication, and shareable unique links.
-      </p>
-      <p>
-        <code>Next.js</code> <code>NestJS</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Better Auth</code> <code>Turborepo</code> <code>Docker</code>
-      </p>
-      <p>
-        <a href="https://letterly-staging.vercel.app"><img src="https://img.shields.io/badge/Live_Staging_%E2%86%97-70E1F5?style=flat-square&amp;logo=vercel&amp;logoColor=black" alt="Live Demo" /></a>
-        <a href="https://github.com/kingsmark16/Letterly"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Source Code" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/kingsmark16/NestFlux">NestFlux — Event-Driven File &amp; Image Engine</a></h3>
-      <p>
-        A modular file ingestion and asynchronous image processing platform built in a pnpm monorepo. Features an <strong>API Gateway</strong> and a reliable <strong>Transactional Outbox Dispatcher</strong> for scheduled event-driven asset processing.
-      </p>
-      <p>
-        <code>NestJS</code> <code>Transactional Outbox</code> <code>TypeScript</code> <code>Docker Compose</code> <code>pnpm</code>
-      </p>
-      <p>
-        <a href="https://github.com/kingsmark16/NestFlux"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Source Code" /></a>
-        <img src="https://img.shields.io/badge/Pattern-Transactional_Outbox-FF4ECD?style=flat-square&amp;labelColor=0D1117" alt="Transactional Outbox" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📓 <a href="https://github.com/kingsmark16/Tinta">Tinta — Private Digital Diary (Mobile + API)</a></h3>
-      <p>
-        Cross-platform private digital diary and mood-tracking monorepo where users write daily reflections, track emotional trends, and preserve memories. Built with an <strong>Expo Router (React Native)</strong> mobile client and a <strong>NestJS + Vitest</strong> backend.
-      </p>
-      <p>
-        <code>React Native</code> <code>Expo Router</code> <code>NestJS</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Vitest</code>
-      </p>
-      <p>
-        <a href="https://github.com/kingsmark16/Tinta"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Source Code" /></a>
-        <img src="https://img.shields.io/badge/Mobile_%2B_API-Expo_%2B_NestJS-A855F7?style=flat-square&amp;labelColor=0D1117" alt="Expo + NestJS" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/kingsmark16/Redis-caching-rate-limiter-with-nestjs-docker-and-nginx">Redis Caching &amp; Distributed Rate Limiter</a></h3>
-      <p>
-        Production-grade <strong>NestJS CRUD Task API</strong> featuring <strong>cache-aside Redis caching</strong> (TTL + automatic invalidation), distributed rate limiting across replicas, health/readiness probes, request correlation IDs, <strong>NGINX HTTPS reverse proxy</strong>, Swagger docs, and <strong>Jest E2E tests</strong>.
-      </p>
-      <p>
-        <code>NestJS</code> <code>Redis</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Docker Compose</code> <code>NGINX</code> <code>Swagger</code> <code>Jest E2E</code>
-      </p>
-      <p>
-        <a href="https://github.com/kingsmark16/Redis-caching-rate-limiter-with-nestjs-docker-and-nginx"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Source Code" /></a>
-        <img src="https://img.shields.io/badge/Infra-Redis_%2B_NGINX_SSL-10B981?style=flat-square&amp;labelColor=0D1117" alt="Redis + NGINX" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 <a href="https://github.com/kingsmark16/PARSUWise">PARSUWise — Centralized Academic LMS</a></h3>
-      <p>
-        Capstone role-based <strong>Learning Management System</strong> for academic institutions supporting Administrators, Faculty, and Students with course authoring, interactive quizzes, <strong>real-time Socket.IO discussion forums</strong>, progress analytics, and <strong>verifiable digital certificates</strong>.
-      </p>
-      <p>
-        <code>React 19</code> <code>Express.js</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Socket.IO</code> <code>Clerk Auth</code> <code>Tailwind CSS</code>
-      </p>
-      <p>
-        <a href="https://parsuwise.onrender.com"><img src="https://img.shields.io/badge/Live_Experience_%E2%86%97-70E1F5?style=flat-square&amp;logo=render&amp;logoColor=black" alt="Live Demo" /></a>
-        <a href="https://github.com/kingsmark16/PARSUWise"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Source Code" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📼 <a href="https://github.com/kingsmark16/CollegeRage">CollegeRage — Cloud Media Memory Vault</a></h3>
-      <p>
-        Interactive 4K digital memory gallery with background audio, visitor analytics, and a secure admin dashboard backed by <strong>Dropbox cloud storage</strong>. Deployed as a multi-container <strong>Docker + NGINX</strong> application on <strong>Microsoft Azure</strong>.
-      </p>
-      <p>
-        <code>TypeScript</code> <code>React</code> <code>Express.js</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Docker</code> <code>NGINX</code> <code>Azure</code>
-      </p>
-      <p>
-        <a href="https://collegerage-fzahg5ekarathpf3.southeastasia-01.azurewebsites.net"><img src="https://img.shields.io/badge/Live_Experience_%E2%86%97-70E1F5?style=flat-square&amp;logo=microsoftazure&amp;logoColor=black" alt="Live Demo" /></a>
-        <a href="https://github.com/kingsmark16/CollegeRage"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Source Code" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✨ <a href="https://github.com/kingsmark16/portfolio">Interactive Developer Portfolio (mcanghel.fun)</a></h3>
-      <p>
-        Motion-rich personal portfolio website built with <strong>Next.js, TypeScript, and GSAP</strong> showcasing projects, technical toolkit, live GitHub contribution calendar integration, internship milestones, and downloadable resume.
-      </p>
-      <p>
-        <code>Next.js</code> <code>TypeScript</code> <code>GSAP</code> <code>CSS3</code> <code>GitHub API</code> <code>Vercel</code>
-      </p>
-      <p>
-        <a href="https://www.mcanghel.fun"><img src="https://img.shields.io/badge/Live_Portfolio_%E2%86%97-70E1F5?style=flat-square&amp;logo=vercel&amp;logoColor=black" alt="Live Portfolio" /></a>
-        <a href="https://github.com/kingsmark16/portfolio"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Source Code" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   <img src="./assets/section-divider.svg" width="100%" alt="Section divider" />
